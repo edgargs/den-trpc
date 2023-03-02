@@ -1,0 +1,7 @@
+
+deno run -A -r https://esm.sh init
+
+deno task esm:add @trpc/server
+deno task esm:add @trpc/client
+
+deno run --allow-net --allow-env server.ts

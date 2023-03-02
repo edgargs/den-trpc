@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@trpc/client": "https://esm.sh/v108/*@trpc/client@10.13.2",
+    "@trpc/client/": "https://esm.sh/v108/*@trpc/client@10.13.2/",
+    "@trpc/server": "https://esm.sh/v108/@trpc/server@10.13.2",
+    "@trpc/server/": "https://esm.sh/v108/@trpc/server@10.13.2/"
+  },
+  "scopes": {}
+}
